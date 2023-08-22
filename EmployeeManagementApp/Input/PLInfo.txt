@@ -1,11 +1,9 @@
-D01, C++, Java
-D02, C++, Java
-D03, Java, C++, JS, Perl
-D04, Java, Ruby, JS, Perl
-D05, C++, Java
-D06, C++, Java
-D07, C++, Java
-D08, C++, Java
-D09, C++, Java
-T01, Java
-T02, PHP
+D01,C++,Java
+D02,C++,Java
+D03,Java,C++,JS,Perl
+D04,Java,Ruby,JS,Perl
+D05,C++,Java
+D06,C++,Java
+D07,C++,Java
+D08,C++,Java
+D09,C++,Java

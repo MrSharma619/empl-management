@@ -1,11 +1,11 @@
-1, D01, Akash, Run, 1, 5000000
-2, D02, Preet, Walk, 3, 6000000
-3, T01, Manu, 0.2, AT, 3000000
-4, T02, Pari, 0, MT, 2000000
-5, D03, Madhu, Run, 11, L, 0.2, 12000000
-6, D04, Hari, Walk, 10, L, 0.3, 10000000
-7, D05, Kavita, Run, 1, 5000000
-8, D06, Raj, Run, 1, 5000000
-9, D07, Raju, Run, 1, 5000000
-10, D08, Ashu, Run, 1, 5000000
-11, D09, Pikachu, Run, 1, 5000000
+1,D01,Akash,Run,1,5000000
+2,D02,Preet,Walk,3,6000000
+3,T01,Manu,2,AT,300000
+4,T02,Pari,0,MT,2000000
+5,D03,Madhu,Run,11,L,0.2,12000000
+6,D04,Hari,Walk,10,L,0.3,10000000
+7,D05,Kavita,Run,1,5000000
+8,D06,Raj,Run,1,5000000
+9,D07,Raju,Run,1,5000000
+10,D08,Ashu,Run,1,5000000
+11,D09,Pikachu,Run,1,5000000
