@@ -2,10 +2,10 @@
 this is a basic c# oops project for learning purpose.
 
 
-Title
+Title: 
 Employee management in a computer company
 
-Background
+Background: 
 A software company needs to manage employees in the company. We will have to implement some components in the employee management system. The main objects to be managed are Developers, TeamLeader and Testers. The system is required to support the following queries:
 1. Read all Employees and print to screen
 2. Show staff proficient in a Programming Language
@@ -16,5 +16,5 @@ A software company needs to manage employees in the company. We will have to imp
 7. Write file- /////not done
 8. Exit
 
-Description
+Description: 
 Developer and Tester inherit from Employee class and TeamLeader inherit from Developer class
